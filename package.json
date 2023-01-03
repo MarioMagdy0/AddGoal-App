@@ -1,7 +1,7 @@
 {
   "name": "react-complete-guide",
   "version": "0.1.0",
-  "homepage": "https://MarioMagdy0gi.github.io/AddGoal-App",
+  "homepage": "https://MarioMagdy0.github.io/AddGoal-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
